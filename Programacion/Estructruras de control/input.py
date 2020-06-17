@@ -1,0 +1,6 @@
+print("ingrese un numero")
+dato=input()
+print(dato)
+print("ingrese una palabra")
+dato=input()
+print(dato)
